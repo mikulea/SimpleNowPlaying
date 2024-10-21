@@ -13,7 +13,7 @@ A lightweight widget that sits in your menu bar
 - Right click the widget to access the settings
 
 ### Install
-- Go to the (releases)[https://github.com/mikulea/SimpleNowPlaying/releases] tab
+- Go to the [releases](https://github.com/mikulea/SimpleNowPlaying/releases) tab
 - Unzip
 - Move to applications folder
 - On the first run, you might have to allow it in Privacy & Security settings
