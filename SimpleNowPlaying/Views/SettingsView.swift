@@ -1,6 +1,7 @@
 import AppKit
 import Foundation
 import SwiftUI
+import LaunchAtLogin
 
 class SettingsWindow: NSWindow {
 
@@ -85,6 +86,7 @@ struct PreferencesView: View {
             .font(.subheadline)
             Toggle("Swap Artist and Title position", isOn: $swapTitleArtist)
                 .toggleStyle(.checkbox)
+            LaunchAtLogin.Toggle()
 
         }
         .padding()
