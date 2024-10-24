@@ -11,6 +11,7 @@ A lightweight widget that sits in your menu bar
 ### Known bugs
 - Weird behavior at times when clicking the status item
 - Title and artist can become out of sync depending on the media playing
+- Image cropping will (at times) zoom in the image a bit, which is not intended
 
 ### Features
 - Displays current song title and artist
