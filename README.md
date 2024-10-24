@@ -1,6 +1,17 @@
 # SimpleNowPlaying 🎵
 A lightweight widget that sits in your menu bar
 
+### Planned Features / Todos
+- [ ] Customizable divider between title - artist
+- [ ] Idle timer
+- [ ] Blacklisted characters / phrases (eg youtube and twitter videos)
+- [ ] Color of popup should match color of album art
+- [ ] need logo
+
+### Known bugs
+- Weird behavior at times when clicking the status item
+- Title and artist can become out of sync depending on the media playing
+
 ### Features
 - Displays current song title and artist
 - Works using apples private media API, so ANY media will work.
